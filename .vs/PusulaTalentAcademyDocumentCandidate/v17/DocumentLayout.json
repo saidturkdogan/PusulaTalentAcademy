@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\RiderProjects\\PusulaTalentAcademyDocumentCandidate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A8044E-6FF0-4854-B8A5-8027219D741F}|PusulaTalentAcademyDocumentCandidate.csproj|c:\\users\\pc\\riderprojects\\pusulatalentacademydocumentcandidate\\filteremployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A8044E-6FF0-4854-B8A5-8027219D741F}|PusulaTalentAcademyDocumentCandidate.csproj|solutionrelative:filteremployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 193,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilterEmployees.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\RiderProjects\\PusulaTalentAcademyDocumentCandidate\\FilterEmployees.cs",
+              "RelativeDocumentMoniker": "FilterEmployees.cs",
+              "ToolTip": "C:\\Users\\PC\\RiderProjects\\PusulaTalentAcademyDocumentCandidate\\FilterEmployees.cs",
+              "RelativeToolTip": "FilterEmployees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:03:27.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\PC\RiderProjects\PusulaTalentAcademyDocumentCandidate\bin\Debug\net9.0\PusulaTalentAcademyDocumentCandidate.exe
+C:\Users\PC\RiderProjects\PusulaTalentAcademyDocumentCandidate\bin\Debug\net9.0\PusulaTalentAcademyDocumentCandidate.deps.json
+C:\Users\PC\RiderProjects\PusulaTalentAcademyDocumentCandidate\bin\Debug\net9.0\PusulaTalentAcademyDocumentCandidate.runtimeconfig.json
+C:\Users\PC\RiderProjects\PusulaTalentAcademyDocumentCandidate\bin\Debug\net9.0\PusulaTalentAcademyDocumentCandidate.dll
+C:\Users\PC\RiderProjects\PusulaTalentAcademyDocumentCandidate\bin\Debug\net9.0\PusulaTalentAcademyDocumentCandidate.pdb
+C:\Users\PC\RiderProjects\PusulaTalentAcademyDocumentCandidate\obj\Debug\net9.0\PusulaTalentAcademyDocumentCandidate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\RiderProjects\PusulaTalentAcademyDocumentCandidate\obj\Debug\net9.0\PusulaTalentAcademyDocumentCandidate.AssemblyInfoInputs.cache
+C:\Users\PC\RiderProjects\PusulaTalentAcademyDocumentCandidate\obj\Debug\net9.0\PusulaTalentAcademyDocumentCandidate.AssemblyInfo.cs
+C:\Users\PC\RiderProjects\PusulaTalentAcademyDocumentCandidate\obj\Debug\net9.0\PusulaTalentAcademyDocumentCandidate.csproj.CoreCompileInputs.cache
+C:\Users\PC\RiderProjects\PusulaTalentAcademyDocumentCandidate\obj\Debug\net9.0\PusulaTalentAcademyDocumentCandidate.sourcelink.json
+C:\Users\PC\RiderProjects\PusulaTalentAcademyDocumentCandidate\obj\Debug\net9.0\PusulaTalentAcademyDocumentCandidate.dll
+C:\Users\PC\RiderProjects\PusulaTalentAcademyDocumentCandidate\obj\Debug\net9.0\refint\PusulaTalentAcademyDocumentCandidate.dll
+C:\Users\PC\RiderProjects\PusulaTalentAcademyDocumentCandidate\obj\Debug\net9.0\PusulaTalentAcademyDocumentCandidate.pdb
+C:\Users\PC\RiderProjects\PusulaTalentAcademyDocumentCandidate\obj\Debug\net9.0\PusulaTalentAcademyDocumentCandidate.genruntimeconfig.cache
+C:\Users\PC\RiderProjects\PusulaTalentAcademyDocumentCandidate\obj\Debug\net9.0\ref\PusulaTalentAcademyDocumentCandidate.dll
