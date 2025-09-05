@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PusulaTalentAcademyDocumentCandidate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc0167d2b821efbb6ea81d9870e427616f288e24")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7695eb2d4de4b0beed4e5ec53361de724c712ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("PusulaTalentAcademyDocumentCandidate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PusulaTalentAcademyDocumentCandidate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
